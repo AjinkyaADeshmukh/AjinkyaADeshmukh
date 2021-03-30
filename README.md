@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AjinkyaADeshmukh
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on Python Projects
+- 📫 How to reach me email deshmukhajinkya227@gmail.com
